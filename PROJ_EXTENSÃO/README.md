@@ -238,7 +238,7 @@ encerrar_sistema(repo_cli, repo_pts, repo_ag)      # salva e gera relatório
 
 - Gabriel Champin - Luana Monteiro - Luigi Matheus - Walter Augusto
 - Projeto desenvolvido como parte do Projeto de Extensão da disciplina **Linguagem de Programação I**
-- Curso: **Irformática para Negócios**
+- Curso: **Informática para Negócios**
 - Instituição: **FATEC – Adib Moisés Dib**
 - Organização Parceira: **PetShop AmigoPet Ltda.**
 
